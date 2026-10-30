@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+:root {
+  font-family: "DM Sans", system-ui, sans-serif;
+  color: #20211f;
+  background: #f6f4ef;
+}
+
+.font-serif {
+  font-family: "Instrument Serif", Georgia, serif;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: #f6f4ef;
+}
